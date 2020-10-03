@@ -5,7 +5,7 @@ import { Button } from "@material-ui/core";
 
 import React from "react";
 import "./SearchPage.css";
-import SearchResult from "./SearchResult";
+import SearchResult from "../component/SearchResult";
 function SearchPage() {
   return (
     <div className="searchpage">

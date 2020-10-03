@@ -1,8 +1,8 @@
 /** @format */
 
 import React from "react";
-import Banner from "./Banner";
-import Card from "./Card";
+import Banner from "../component/Banner";
+import Card from "../component/Card";
 import "./Home.css";
 function Home() {
   return (
